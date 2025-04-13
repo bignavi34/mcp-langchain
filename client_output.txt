@@ -1,0 +1,13 @@
+
+Listing available tools:
+Error listing tools: 404
+
+Listing available resources:
+Error listing resources: 404
+
+Calling 'add' tool with a=5, b=10:
+Error calling add tool: 404
+
+Getting greeting for 'World':
+Error getting greeting: 404
+
